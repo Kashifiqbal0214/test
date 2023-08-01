@@ -1,1 +1,2 @@
-create a new file using the gitHub for practice file 
+create a new file using GitHub for a practice file 
+Changes this file because is test file 
